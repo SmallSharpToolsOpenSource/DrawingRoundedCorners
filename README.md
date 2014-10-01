@@ -9,7 +9,7 @@ Another benefit of drawing shapes is image management for various PNG files is n
 
 Below are examples of shapes drawn with the included sample code.
 
-<img src="https://raw.githubusercontent.com/brennanMKE/DrawingRoundedCorners/master/DrawingRoundedCorners.png" width="200px" />
+<img src="https://raw.githubusercontent.com/brennanMKE/DrawingRoundedCorners/master/DrawingRoundedCorners.png" width="600px" />
 
 ## License
 
